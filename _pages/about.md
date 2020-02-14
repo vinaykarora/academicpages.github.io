@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Full-Stack | .NET Core | Angular | Programmer | Developer | Consultant | Freelancer"
+title: "Vinay Arora - Full-Stack .NET Core & Angular Programmer Developer Consultant Freelancer"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
