@@ -85,9 +85,9 @@ author:
   bio              : "Focused on high quality and maximizing productivity!"
   location         : "Gurugram, Haryana, India"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "VA@VinayAroraTech.Com"
+  pubmed           :
+  googlescholar    :
+  email            : "va@vinayaroratech.Com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "vinuarora"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : "https://stackoverflow.com/users/1598637/vinay-arora"
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "vinaroar"
   vine             :
   weibo            :
   xing             :
