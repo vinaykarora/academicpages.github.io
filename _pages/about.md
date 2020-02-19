@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Vinay Arora - Full-Stack .NET Core & Angular Programmer Developer Consultant Freelancer"
+title: "Full-Stack, .NET Core, Angular, Programmer, Developer, Consultant, Trainer, Freelancer"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -12,7 +12,7 @@ About Me
 ======
 Hi there, I’m Vinay. I am an independent **Consultant Lead Software Engineer** from Gurugram, Haryana, India. Vinay help organisations deliver faster and more reliable experiences to their customers. Vinay is full-stack developer and architect with experience in various technologies—including the entire microsoft stack .NET Framework, .NET Core, and front-end technologies (Angular and React). He also has a great hands on experience in the design and optimization of systems. Vinay is an "Movers & Shakers – I Made A Difference" award-winning developer, an individual contributer, and Lead Engineer for PureSoftware.
 
-With over a decade of professional experience, and more than two years working as an independent consultant, I have been trusted by the likes of the **Aristocrat**, **PureSoftware**, and many more. Through combinations of coding, training, development, support, and consultancy, I have helped my clients to build and scale resilient, performant full-stack systems for a variety of different applications.
+With over seven years of professional experience, and more than two years working as an independent consultant, I have been trusted by the likes of the **Aristocrat**, **PureSoftware**, and many more. Through combinations of coding, training, development, support, and consultancy, I have helped my clients to build and scale resilient, performant full-stack systems for a variety of different applications.
 
 You can find me on [LinkedIn](https://www.linkedin.com/in/vinuarora/), on [Twitter](https://twitter.com/vinaroar), and [GitHub](https://github.com/vinaykarora).
 
@@ -26,7 +26,6 @@ Most importantly, I am **available for hire**. My work spans many industries, co
 
 If you think I can help you—and I probably can—**say hello**: I enjoy working with companies of all shapes, sizes, locations, problems, needs, and budgets. I’m professional, but I’m laid back—**drop me a line**, and we can see what fits.
 
-
+[Hire me](mailto:va@vinayaroratech.com?subject=[Hire]%20Vinay%20Arora).
 **Vinay Arora**
 
-[Hire me](mailto:va@vinayaroratech.com?subject=[Hire]%20Vinay%20Arora).
